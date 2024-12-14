@@ -1,0 +1,5 @@
+huggingface_bert_finetuning.html
+bert_trained_1e.pt
+hyperparameters_stats.csv
+hyperparameters_stats_vectorized.csv
+results
